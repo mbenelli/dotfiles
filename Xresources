@@ -5,7 +5,7 @@
 
 // Light
 //#include ".xrdb/PencilLight.xrdb"
-//#include ".xrdb/Piatto Light.xrdb"
+#include ".xrdb/Piatto Light.xrdb"
 //#include ".xrdb/Solarized Light.xrdb"
 
 XTerm*faceName: M+ 1m:style=regular
