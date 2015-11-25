@@ -4,8 +4,9 @@
 //#include ".xrdb/Solarized Dark.xrdb"
 
 // Light
+#include ".xrdb/AtomOneLight.xrdb"
 //#include ".xrdb/PencilLight.xrdb"
-#include ".xrdb/Piatto Light.xrdb"
+//#include ".xrdb/Piatto Light.xrdb"
 //#include ".xrdb/Solarized Light.xrdb"
 
 XTerm*faceName: M+ 1m:style=regular
