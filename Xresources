@@ -9,8 +9,9 @@
 //#include ".xrdb/Piatto Light.xrdb"
 //#include ".xrdb/Solarized Light.xrdb"
 
-XTerm*faceName: M+ 1m:style=regular
-XTerm*faceSize: 10
+//XTerm*faceName: M+ 1m:style=regular
+XTerm*faceName: Monoid
+XTerm*faceSize: 9
 XTerm*faceSize1: 8
 XTerm*faceSize2: 10
 XTerm*faceSize3: 11
