@@ -1,13 +1,7 @@
-// Dark
-//#include ".xrdb/Neutron.xrdb"
-//#include ".xrdb/Obsidian.xrdb"
-//#include ".xrdb/Solarized Dark.xrdb"
-
-// Light
+// Colors defintions
 #include ".xrdb/AtomOneLight.xrdb"
-//#include ".xrdb/PencilLight.xrdb"
-//#include ".xrdb/Piatto Light.xrdb"
-//#include ".xrdb/Solarized Light.xrdb"
+
+// Terminal
 
 XTerm*faceName: Source Code Pro
 XTerm*faceSize: 9
