@@ -9,8 +9,7 @@
 //#include ".xrdb/Piatto Light.xrdb"
 //#include ".xrdb/Solarized Light.xrdb"
 
-//XTerm*faceName: M+ 1m:style=regular
-XTerm*faceName: Monoid
+XTerm*faceName: Source Code Pro
 XTerm*faceSize: 9
 XTerm*faceSize1: 8
 XTerm*faceSize2: 10
