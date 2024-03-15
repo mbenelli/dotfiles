@@ -13,6 +13,17 @@ hook global WinSetOption filetype=haskell %{
     set-option window indentwidth 2
 }
 
+# elixir
+
+hook global BufSetOption filetype=elixir %{
+    set-option buffer formatcmd 'mix format -'
+    hook buffer BufWritePre .* format
+}
+
+hook global WinSetOption filetype=elixir %{
+    set-option window indentwidth 2
+}
+
 # C
 
 hook global BufSetOption filetype=c %{
