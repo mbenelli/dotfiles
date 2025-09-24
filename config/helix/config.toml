@@ -1,0 +1,4 @@
+theme = "bruto"
+
+[editor]
+line-number = "relative"

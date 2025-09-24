@@ -1,0 +1,25 @@
+inherits = "base16_default"
+
+"ui.cursor" = { fg = "white", bg = "red"}
+"ui.gutter" = { fg = "default", bg = "default"}
+"ui.linenr" = { fg = "gray", bg = "default"}
+"ui.linenr.selected" = { fg = "red", bg = "default"}
+"ui.popup" = { fg = "default", bg = "default"}
+"ui.help" = { fg = "default", bg = "default"}
+
+"attribute" = { fg = "default"}
+"type" = { fg = "default"}
+"constructor" = { fg = "default"}
+"constant" = { fg = "default"}
+"string" = { fg = "default"}
+"comment" = { fg = "default"}
+"variable" = { fg = "default"}
+"label" = { fg = "default"}
+"punctuation" = { fg = "default"}
+"keyword" = { fg = "default"}
+"operator" = { fg = "default"}
+"function" = { fg = "default"}
+"tag" = { fg = "default"}
+"namespace" = { fg = "default"}
+"special" = { fg = "default"}
+"markup" = { fg = "default"}
